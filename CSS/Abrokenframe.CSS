@@ -1,0 +1,43 @@
+      p,ol,h2,h3,li {color:rgb(255, 180, 65);text-align: justify;}
+      h1 {color:rgb(180,40,80);text-align: justify;}
+      details > summary {
+        padding: 4px;
+        width: 160px;
+        border: none;
+        color: rgb(255, 180, 65);
+        cursor: pointer;
+        margin: 10px;
+      }
+      div.flex-container {
+      display: flex;
+      flex-wrap: wrap;
+      padding:15px;
+        border: none;
+        color: whitesmoke;
+}
+      div.gallery {
+        margin: 5px;
+        border: 1px solid rgb(255, 180, 65);
+        width: 330px;
+        background: black url("Trigo.png") repeat left top;
+    background-size: 330px 330px;
+      }
+      
+      div.gallery img {
+        width: 330px;
+        height: 330px;
+      }
+      
+      div.desc {
+        padding: 15px;
+        text-align: justify;
+        color:rgb(255, 180, 65);
+      }
+        a:link, a:visited {
+          color:rgb(255, 180, 65);
+          cursor: pointer;
+        }
+        body {
+            background: whitesmoke url("Abrokenbackground.png") repeat fixed left top;
+            background-size: 100% 100%;
+        }
