@@ -1,23 +1,23 @@
 function exercicio1(){
-    document.getElementById("respostaexercicio1").innerHTML = 
+    document.getElementById("letra").innerHTML = 
             'Uma casa branca, um quarto branco <br>'
-            'O progama de hoje <br>'
-            'Iluminar, acender <br>'
-            'Seus olhos estão distantes <br><br>'
+            "O progama de hoje <br>"
+            "Iluminar, acender <br>"
+            "Seus olhos estão distantes <br><br>"
         
-            //   The map represents you <br>
-            //   And the tape is your voice <br>
-            //   Follow all along you <br>
-            //   'Til you recognize the choice <br><br>
+            "O mapa representa você <br>"
+            "E a fita é sua voz <br>"
+            "Acompanhe tudo sobre você<br>"
+            "'Til you recognize the choice <br><br>"
         
-            //   I take pictures <br>
-            //   Photographic pictures <br><br>
+            "Eu tirei retratos<br>"
+            "Retratos fotográficos<br><br>"
         
-            //   Bright light, dark room <br>
-            //   Bright light, dark room <br><br>
+            "Luzes brilhantes, quarto escuro<br>"
+            "Luzes brilhantes, quarto escuro<br><br>"
         
-            //   I said I'd write a letter <br>
-            //   But I never got the time <br>
+            "Eu disse que escreveria uma carta<br>"
+            "Mas eu nunca tive o tempo <br>"
             //   And looking to the day <br>
             //   I mesmerize the light <br><br>
         
