@@ -1,4 +1,4 @@
-function exercicio1(){
+function Photographic(){
     document.getElementById("letra").innerHTML = 
             'Uma casa branca, um quarto branco <br>'
             "O progama de hoje <br>"
