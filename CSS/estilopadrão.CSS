@@ -16,6 +16,7 @@ button {
   color: var(--cor-letra);
   background-color: var(--cor-fundo);
   border: 1px solid var(--cor-letra);
+  cursor: pointer;
 }
 
 header {display: flex; gap: 20px;}
