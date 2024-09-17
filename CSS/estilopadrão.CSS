@@ -115,3 +115,7 @@ img.capa {
   margin: 5px;
   border: 1px solid var(--cor-letra);
 }
+
+p.footer {
+  font-size: 250%;
+}
