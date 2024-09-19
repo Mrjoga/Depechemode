@@ -9,6 +9,8 @@ h1,h2,h3 {background-color: var(--cor-fundo-titulo);}
 
 section {border: 1px solid var(--cor-secundaria);}
 
+*::-webkit-scrollbar-thumb {background-color: var(--cor-secundaria);}
+
 details {scrollbar-color: var(--cor-secundaria) transparent;}
 
 section.letra {border: 1px solid var(--cor-secundaria);}
