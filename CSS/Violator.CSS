@@ -17,6 +17,9 @@ section.letra {border: 1px solid var(--cor-secundaria);}
 
 div.gallery {border: 1px solid var(--cor-secundaria);}
 
-footer {border: 1px solid var(--cor-secundaria);}
+footer {
+  border: none;
+  background-color: var(--cor-fundo-titulo);
+}
 
 body {background-color: black;}
