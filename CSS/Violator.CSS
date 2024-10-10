@@ -1,7 +1,7 @@
 :root {
   --cor-fundo: black;
   --cor-letra: whitesmoke;
-  --cor-fundo-titulo: gray;
+  --cor-fundo-titulo: rgb(122, 122, 122);
   --cor-secundaria: crimson;
 }
 
@@ -14,6 +14,8 @@ section {border: 1px solid var(--cor-secundaria);}
 details {scrollbar-color: var(--cor-secundaria) transparent;}
 
 section.letra {border: 1px solid var(--cor-secundaria);}
+
+.rascunho-title {color: var(--cor-secundaria); }
 
 div.gallery {border: 1px solid var(--cor-secundaria);}
 
